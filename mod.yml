@@ -1,0 +1,9 @@
+title: Comic Sans - enjp
+game: kh2
+originalAuthor: DA
+description: a (poorly created) Comic Sans font replacement for enjp language packs.
+assets:
+- name: msg/jp/fontimage.bar
+  method: copy
+  source:
+  - name: msg/fontimage.bar
